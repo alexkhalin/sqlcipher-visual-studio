@@ -6,3 +6,5 @@
 *.user
 ipch/
 build/
+SQLCipher.VC.VC.opendb
+SQLCipher.VC.db
