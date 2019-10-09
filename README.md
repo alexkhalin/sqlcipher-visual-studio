@@ -1,8 +1,8 @@
-SQLCipher for Visual Studio 2015, building platforms x32 and x64
+SQLCipher for Visual Studio 2019, building platforms x32 and x64
 ===========================
 
 [sqlcipher-visual-studio](https://github.com/torsch/sqlcipher-visual-studio) is a simple port of the open-source [SQLCipher](http://sqlcipher.net/) library [[src](https://github.com/sqlcipher/sqlcipher)] for Visual Studio 2015. Everything should work out of the box to compile x32 and x64 versions of SQLCipher.
-Actually this is just an updated fork from [karlosp/sqlcipher-visual-studio](http://github.com/karlosp/sqlcipher-visual-studio) where you can get an older version for Visual Studio 2013.
+Actually this is just an updated fork from [T0SCH/sqlcipher-visual-studio](https://github.com/T0SCH/sqlcipher-visual-studio) which is a fork from [karlosp/sqlcipher-visual-studio](http://github.com/karlosp/sqlcipher-visual-studio) where you can get an older version for Visual Studio 2013.
 
 Versions
 --------
